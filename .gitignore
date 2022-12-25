@@ -7,6 +7,9 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+.idea
+.idea/
+init.py
 .Python
 .pytest_cache
 .pytest_cache/
