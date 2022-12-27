@@ -6,6 +6,7 @@ import time
 
 @pytest.mark.usefixtures('setup')
 class TestBuyCar:
+    #TODO add annotations
 
     @pytest.mark.all_tests
     @pytest.mark.buy_modelx
